@@ -65,6 +65,13 @@ cp -r inquiry-tutor ~/.agents/skills/
 
 **手动安装：** 下载 ZIP，把 `inquiry-tutor` 文件夹整个拖进上面任一目录。
 
+### 装不了？用单文件版
+
+[`standalone.md`](standalone.md) 把整个 skill 装在一个文件里。
+
+- **发给有文件系统的 agent**（Claude Code / Codex / Cursor）：说一句「**帮我安装这个 skill**」，它会自己拆装到位。
+- **只有网页版 AI？** 把文件内容发过去，说「**按这个带我学 X**」。
+
 ---
 
 ## 怎么用

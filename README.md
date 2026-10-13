@@ -66,6 +66,13 @@ cp -r inquiry-tutor ~/.agents/skills/
 
 **Manual:** download the ZIP and drop the `inquiry-tutor` folder into one of the paths above.
 
+### Can't install? Use the single-file version
+
+[`standalone.md`](standalone.md) contains the entire skill in one file.
+
+- **Have an agent with filesystem access?** Send it the file and say *"install this skill"* — it will unpack itself into the right place.
+- **Only have a web chat?** Paste the file in and say *"follow this and teach me X"*.
+
 ---
 
 ## Use it
